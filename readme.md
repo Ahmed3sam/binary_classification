@@ -15,6 +15,7 @@ so we need to make more analysis on the data
 
 ### more analysis:
 We saw that:
+
     1 - variable2 & variable3 & variable8 have 2 values in a row
     2 - variable1 has 2 characters.
     3 - variable4 has 3 characters.
@@ -38,6 +39,7 @@ We saw that:
     15 - Null problem of course
 
 ### solutions:
+
     1 - we will drop duplicates columns (variable5 - variable10 - variable17)
     2 - we will drop bias columns (variable19)
     
@@ -49,9 +51,11 @@ We saw that:
     7 - we will apply that in the validation set either
 
 ### machine learning:
+
 using svm model 
 
 ### results:
+
 confusuin matrix: 
 [[83 24]
  [ 5 88]]
