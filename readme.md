@@ -65,5 +65,5 @@ precision: 0.87
 recall:    0.85
 f1-score:  0.85
 
-![alt text](https://github.com/Ahmed3sam/binary_classification/tree/master/image/image.PNG)
+![alt text](https://github.com/Ahmed3sam/binary_classification/blob/master/image/image.PNG)
 
